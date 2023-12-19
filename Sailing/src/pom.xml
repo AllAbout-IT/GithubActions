@@ -1,0 +1,8 @@
+<!-- pom.xml -->
+<dependencies>
+    <!-- ... 기존 의존성 ... -->
+    <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+</dependencies>
